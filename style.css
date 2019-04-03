@@ -6,13 +6,6 @@ body{
 	line-height:1.5;
 	background-color:#f4f4f4;
 }
-
-/*
-|====================|
-|				Global			 |
-|====================|
-*/
-
 .container{
 	width:80%;
 	margin:auto;
@@ -46,9 +39,7 @@ ul{
 
 
 /*
-|====================|
-|				Header			 |
-|====================|
+				Header	
 */
 
 header{
@@ -95,9 +86,7 @@ header a:hover{
 }
 
 /*
-|====================|
-|			Showcase			 |
-|====================|
+			Showcase			 |
 */
 
 #showcase{
@@ -141,9 +130,7 @@ header a:hover{
 }
 
 /*
-|====================|
-|			  Boxes			   |
-|====================|
+			Boxes
 */
 
 #boxes{
@@ -166,9 +153,7 @@ footer {
 }
 
 /*
-|====================|
-|			  Boxes			   |
-|====================|
+		Boxes
 */
 
 aside#sidebar{
